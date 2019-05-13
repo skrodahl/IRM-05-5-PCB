@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-05-13T20:03:42Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "meanwell-irm"
+        },
+        "Owner": "Havard Skrodahl <skrodahl@gmail.com>",
+        "Size": {
+            "X": 68.56,
+            "Y": 41.58
+        }
+    }
+}
